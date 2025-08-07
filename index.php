@@ -22,4 +22,14 @@ $user->delete();
 //     'password' => '123456'
 // ]);
 
+/*
+CLONE
+CLONE 
+CLONE
+CLONE
+CLONE
+
+
+*/
+
 ?>
